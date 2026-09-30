@@ -54,7 +54,7 @@ student_management_system/
 ```
 python --version
 ```
-You need Python 3.6 or above.
+You need Python 3.13 or above.
 
 ### Step 2 — Clone or download this repository
 ```
@@ -100,8 +100,8 @@ All student records are stored in `students_data.py` as a Python list:
 
 ```python
 students = [
-    {'id': 1001, 'name': 'bharat paliwal', 'grades': {'physics': 100, 'mathematics': 100, 'chemistry': 100}},
-    {'id': 1002, 'name': 'SHUBHAM SAHU', 'grades': {'PHYSICS': 100, 'MATHEMATICS': 100, 'CHEMISTRY': 100}}]
+    {'id': 1003, 'name': 'Shreya Tripathi', 'grades': {'chemistry': 100, 'mathematics': 100, 'programming': 100}},
+    ]
 ```
 
 Every add or delete updates this file automatically.
